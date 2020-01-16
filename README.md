@@ -10,7 +10,7 @@ La idea es compartir con quién le interese las diferentes reflexiones y aprendi
 
 Si quieres ponerte en contacto conmigo para saber más puedes contactarme vía email: [marta.salas.next@bbva.com](mailto:marta.salas.next@bbva.com)
 
-[Mándame un email](mailto:marta.salas.next@bbva.com){: .btn }
+[Mándame un email](mailto:marta.salas.next@bbva.com){: .btn  .btn-blue }
 
 ___
 
