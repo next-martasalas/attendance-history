@@ -1,29 +1,17 @@
 # Inicio
 
-Bienvenidx a la guía para el desarrollo de experiencias Omnicanal desarrollado por el Tec Lab de [BBVA Next Technologies](https://www.bbvanexttechnologies.com/).
+Este site tiene como objetivo volcar y registrar las notas y reflexiones que se generan durante la asistencia a charlas y eventos.
+
+La idea es compartir con quién le interese las diferentes reflexiones y aprendizajes que voy obteniendo en los diferentes foros. De momento es una actividad individual, pero podría llegar a ser parte del equipo de Tec Lab de Innovación de [BBVA Next Technologies](https://www.bbvanexttechnologies.com/).
 
 
-## Introducción
+## Autora
 
-Como parte de nuestro trabajo en la línea de Omnicanalidad de HCI (Human Computer Interactions) estamos desarrollando esta guía o toolkit.
-
-El objetivo de esta guía es ayudar a distintos tipos de perfiles (estrategia, decisores, diseñadores, técnicos, ...) a iniciar el diseño de una experiencia omnicanal.
-
-Si quieres saber más sobre la guía o sobre qué son las experiencias omnicanal...
-
-[Empezar desde aquí](./INTRODUCTION.md){: .btn .btn-blue }
+[Marta Salas](https://github.com/next-martasalas)
 
 
-## Autores
+## ¿Dudas?
 
- * [Sandra Juárez](https://github.com/next-sandrajuarez)
- * [José Martínez](https://github.com/next-josemanuelmartinezcarrasco)
- * [Lucas Menéndez](https://github.com/next-lucasmenendez)
- * [Marta Salas](https://github.com/next-martasalas)
+Si quieres ponerte en contacto conmigo para saber más puedes contactarme vía email: [marta.salas.next@bbva.com](mailto:marta.salas.next@bbva.com)
 
-
-## Colaboraciones
-
-¿Quieres colaborar en el toolkit? Ponte en contacto nosotrxs a través del contacto del laboratorio desde aquí:
-
-[Quiero colaborar](mailto:labs.next@bbva.com){: .btn }
+[Mándame un email](mailto:marta.salas.next@bbva.com){: .btn }
