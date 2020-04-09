@@ -15,7 +15,7 @@ nav_order: 5
 
 ## Índice de charlas escuchadas
 
-  1. [Covid19 both is and is not a black swan (and that's ok): futures in, through, and beyond a time of crisis. John A. Sweeney.](#covid19-both-is-and-is-not-a-black-swan)
+  1. [Covid19 both is and is not a black swan (and that's ok): futures in, through, and beyond a time of crisis. John A. Sweeney.](#1-covid19-both-is-and-is-not-a-black-swan)
   2. [Next talk](#)
 
 ---
