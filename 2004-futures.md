@@ -56,9 +56,9 @@ Se propone una metáfora alternativa, la del **Tsunami del cambio**  que nos per
 
 ### Recursos y enlaces
 
-  * https://postnormaltim.es/
+  * [postnormaltim.es](https://postnormaltim.es/)
   * [The Three Tomorrows of Postnormal Times](https://postnormaltim.es/sites/default/files/uploads/Sardar%20content/Three%20Tomorrows%20PNT%20SARDAR%20SWEENEY%20Futures%202016.pdf)
-  * http://www.metafuture.org/library/Narrative-foresight-published.pdf
+  * [Narrative Foresight Published - metafuture.org](http://www.metafuture.org/library/Narrative-foresight-published.pdf)
   * [Metaphors We Think With: The Role of Metaphor in Reasoning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016782)
   * [Surfing Tsunamis of Change](http://www.futures.hawaii.edu/publications/futures-visions/SurfingTsunamisMexico1994.pdf)
 
