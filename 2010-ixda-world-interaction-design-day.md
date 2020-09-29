@@ -15,6 +15,7 @@ nav_order: 5
 
 ## Índice de charlas escuchadas
 * IxDA Jakarta: Enabling Rural Community Involvements for Sustainable Culture Through Technology [Ver notas](#1-enabling-rural-community-involvements-for-sustainable-culture)
+* IXDD - Cape Town: Negociating Culture and Sustainability in an African context - Panel discussion [Ver notas](#1-enabling-rural-community-involvements-for-sustainable-culture)
 
 ## 1. Enabling Rural Community Involvements for Sustainable Culture
 *Victoria Simansjah - Product Designer and Manager at [Sixty Two](https://www.instagram.com/sixtytwo.co/?hl=es)*
@@ -32,3 +33,14 @@ La investigación es el primer punto de contacto con las personas para incorpora
 **Vernacular Design Principles** principios de diseño que nos permiten enfocar el reto de diseño de una forma más sostenible. Post sobre principios de diseño vernacular: [https://medium.com/@bjornmeansbear/some-vernacular-design-principles-their-application-today-241743c93b1d](https://medium.com/@bjornmeansbear/some-vernacular-design-principles-their-application-today-241743c93b1d)
 
 ![](img/2010_ixda_sixtytwo.png)
+
+## 2. IXDD - Cape Town: Negociating Culture and Sustainability in an African context - Panel discussion
+La cultura es lo que sostiene la sociedad, lo que la hace sostenible. La novedades en tecnología pueden ayudar a impulsar comportamientos sostenibles. La cultura provee de una lente para una consideración ética. La ética incluye el estudio de valores como la integridad, la honestidad, la competencia, la confianza, seguridad y la responsabilidad social y ambiental.
+
+La visión dominante es extremadamente dominante, ¿cómo podemos habilitar desde las escuelas de diseño ese desaprender para pensar diferente, de forma crítica?
+
+[Saki Mafundikwa](https://www.ted.com/speakers/saki_mafundikwa) habla de la necesidad de recuperar tu propia cultura. Cada clase está repleta de gente muy diversa, con diferentes orígenes. El problema es que esta gente está perdida, se siente extranjera en el campo de diseño, pero lo que tiene que hacer es sentir quién es verdaderamente. La forma que tenemos de resolver problemas es a través de la perspectiva de nuestra identidad, nuestros orígenes. Cuando eso se comprende, se consiguen resultados sorprendentes.
+
+[Ralitsa Diana Debrah](https://cumulusgreen.org/ralitsa-diana-debrah/) nos habla de la filosofía Ubuntu para el diseño. La idea de diseñar con un propósito, primando el impacto que consigues en la comunidad.
+
+![](img/2010_ixda_capetown.png)
