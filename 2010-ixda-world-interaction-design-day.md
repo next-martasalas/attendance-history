@@ -29,6 +29,6 @@ La investigación es el primer punto de contacto con las personas para incorpora
 
 **Design for offline** es diseñar teniendo en cuenta a qué funcionalidades se podrá tener acceso sin estar conectado a la red y qué otras funcionalidades serán online. Es preguntarse ¿cuánto de útil puede ser la aplicación aunque no se tenga conexión?
 
-**Vernacular Design Principles** principios de diseño que nos permiten enfocar el reto de diseño de una forma más sostenible (https://medium.com/@bjornmeansbear/some-vernacular-design-principles-their-application-today-241743c93b1d)
+**Vernacular Design Principles** principios de diseño que nos permiten enfocar el reto de diseño de una forma más sostenible. Post sobre principios de diseño vernacular: [https://medium.com/@bjornmeansbear/some-vernacular-design-principles-their-application-today-241743c93b1d](https://medium.com/@bjornmeansbear/some-vernacular-design-principles-their-application-today-241743c93b1d)
 
 ![](img/2010_ixda_sixtytwo.png)
