@@ -14,7 +14,7 @@ nav_order: 5
 [Más información](https://interactiondesignday.org/){: .btn  .btn-blue }
 
 ## Índice de charlas escuchadas
-* IxDA Jakarta: Enabling Rural Community Involvements for Sustainable Culture Through Technology [Ver notas](#1-enabling-rural-community involvements-for-sustainable-culture)
+* IxDA Jakarta: Enabling Rural Community Involvements for Sustainable Culture Through Technology [Ver notas](#1-enabling-rural-community-involvements-for-sustainable-culture)
 
 ## 1. Enabling Rural Community Involvements for Sustainable Culture
 *Victoria Simansjah - Product Designer and Manager at [Sixty Two](https://www.instagram.com/sixtytwo.co/?hl=es)*
