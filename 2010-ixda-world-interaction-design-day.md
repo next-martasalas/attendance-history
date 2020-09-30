@@ -16,7 +16,9 @@ nav_order: 5
 ## Índice de charlas escuchadas
 * IxDA Jakarta: Enabling Rural Community Involvements for Sustainable Culture Through Technology [Ver notas](#1-enabling-rural-community-involvements-for-sustainable-culture)
 * IXDD - Cape Town: Negociating Culture and Sustainability in an African context - Panel discussion [Ver notas](#2-ixdd---cape-town-negociating-culture-and-sustainability-in-an-african-context---panel-discussion)
-* IXDA London: Design under pressure [Ver notas](#3-ixda---london-design-under-pressure)
+* IXDA London: Design under pressure [Ver notas](#3-ixda-london-design-under-pressure)
+* IXDA Berlin: Designing for Carbon Aware Digital Experiences [Ver notas](#4-ixda-berlin-designing-for-carbon-aware-digital-experiences)
+* [Recursos compartidos](#recursos-compartidos)
 
 ## 1. Enabling Rural Community Involvements for Sustainable Culture
 *Victoria Simansjah - Product Designer and Manager at [Sixty Two](https://www.instagram.com/sixtytwo.co/?hl=es)*
