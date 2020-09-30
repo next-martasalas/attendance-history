@@ -15,7 +15,8 @@ nav_order: 5
 
 ## Índice de charlas escuchadas
 * IxDA Jakarta: Enabling Rural Community Involvements for Sustainable Culture Through Technology [Ver notas](#1-enabling-rural-community-involvements-for-sustainable-culture)
-* IXDD - Cape Town: Negociating Culture and Sustainability in an African context - Panel discussion [Ver notas](#1-enabling-rural-community-involvements-for-sustainable-culture)
+* IXDD - Cape Town: Negociating Culture and Sustainability in an African context - Panel discussion [Ver notas](#2-ixdd---cape-town-negociating-culture-and-sustainability-in-an-african-context---panel-discussion)
+* IXDA London: Design under pressure [Ver notas](#3-ixda---london-design-under-pressure)
 
 ## 1. Enabling Rural Community Involvements for Sustainable Culture
 *Victoria Simansjah - Product Designer and Manager at [Sixty Two](https://www.instagram.com/sixtytwo.co/?hl=es)*
@@ -41,6 +42,51 @@ La visión dominante es extremadamente dominante, ¿cómo podemos habilitar desd
 
 [Saki Mafundikwa](https://www.ted.com/speakers/saki_mafundikwa) habla de la necesidad de recuperar tu propia cultura. Cada clase está repleta de gente muy diversa, con diferentes orígenes. El problema es que esta gente está perdida, se siente extranjera en el campo de diseño, pero lo que tiene que hacer es sentir quién es verdaderamente. La forma que tenemos de resolver problemas es a través de la perspectiva de nuestra identidad, nuestros orígenes. Cuando eso se comprende, se consiguen resultados sorprendentes.
 
+![](img/2010_ixda_capetwon02.png)
+
 [Ralitsa Diana Debrah](https://cumulusgreen.org/ralitsa-diana-debrah/) nos habla de la filosofía Ubuntu para el diseño. La idea de diseñar con un propósito, primando el impacto que consigues en la comunidad.
 
 ![](img/2010_ixda_capetown.png)
+
+## 3. IXDA London: Design under pressure
+*Molly Wilson*
+
+Designers have been trained to take a basically optimistic perspective on the world. **We believe that**, as long as we are addressing people's needs, as long as we offer efficiency, clarity, meaning, and delight, **the universe as we know it will pretty much behave itself**. We treat threats – from hackers to stalkers, from pandemics to civil unrest – as edge cases that we can't possibly foresee. We figure that we'll handle when they come up. It took a pandemic to make many of us realize that every one of us lives in what we used to call an "edge case." And no, we can't just design with the constraints of each particular crisis in mind.
+
+![](img/2010_ixda_london01.png)
+
+**We need to rethink our entire attitude**. We need to integrate adversarial thinking into human-centered design.We'll discuss **3 different methods that help you design for high-pressure contexts**. They're inspired by tools from the world of cybersecurity, a field that has long needed to design for resilience. These methods fit best in the synthesis, ideation, and prototyping phases. You should be familiar with the basic methods of human-centered design.
+
+* [simplysecure.org](https://simplysecure.org/designunderpressure/#resources)
+* [PPT de la presentación](https://simplysecure.org/resources/Design%20Under%20Pressure%20DT%20Barcamp%202020.pdf)
+
+![](img/2010_ixda_london02.png)
+
+## 4. IXDA Berlin: Designing for Carbon Aware Digital Experiences
+*Chris Adams*
+
+Estamos en una crisis climática porque seguimos consumiendo recursos fósiles, en vez de buscar un camino para dejar de consumirlos.
+
+Internet es la máquina más grande del mundo y mayoritariamente consume recursos fósiles. ¿Cómo podríamos modificar la forma que usamos internet? Cada vez es un sistema más eficiente energéticamente.
+
+Bloom te muestra tu huella de carbono en función de en lo que inviertes.
+
+GOLD (Green, Open, Lean, Distributed)
+
+* [PPT de la charla de Chris Adams - Revisar links interesantes](https://docs.google.com/presentation/d/1wkGGemvWxQOX3U8XicBLcHjBWVkM7dAg6dVz4pqNtWI/edit#slide=id.p
+)
+
+![](img/2010_ixda_berlin.png)
+
+*Lucia Ye - [luciaye.com](https://www.luciaye.com/)*
+
+Presenta el diseño especulativo de un sistema operativo que modula el uso de internet en base al consumo de CO2, para que en vez de estar siempre online estar siempre *onling* (alineados). La información que nos ofrece nos permite cambiar nuestro comportamiento.
+
+* [Onlign OS and Applications](https://www.luciaye.com/onlign/)
+
+
+![](https://www.luciaye.com/wp-content/uploads/2020/08/ddw-04.jpg)
+
+## Recursos compartidos
+* https://miro.com/app/board/o9J_koNYWFs=/
+* [Fundamentals of Data Visualization - Claus O. Wilke](https://clauswilke.com/dataviz/index.html)
