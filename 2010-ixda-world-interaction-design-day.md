@@ -88,5 +88,5 @@ Presenta el diseño especulativo de un sistema operativo que modula el uso de in
 ![](https://www.luciaye.com/wp-content/uploads/2020/08/ddw-04.jpg)
 
 ## Recursos compartidos
-* https://miro.com/app/board/o9J_koNYWFs=/
+* [Tablero de compartición de la edición Europea](https://miro.com/app/board/o9J_koNYWFs=/)
 * [Fundamentals of Data Visualization - Claus O. Wilke](https://clauswilke.com/dataviz/index.html)
