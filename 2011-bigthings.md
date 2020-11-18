@@ -1,5 +1,5 @@
 ---
-title: Octubre | Big Things
+title: Noviembre | Big Things
 parent: Año 2020
 nav_order: 8
 ---
