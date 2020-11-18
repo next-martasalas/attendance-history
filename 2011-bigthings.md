@@ -26,6 +26,8 @@ En el contexto financiero, las personas están rodeadas de pantallas con datos y
 
 Para intentar descubrir porqué se toma una decisión se pueden utilizar *gaze trakers* que **registran el recorrido de la mirada a la hora de tomar esas decisiones.** Con esta información el sistema puede aprender el patrón de la toma de decisión.
 
+AI PPTX: creación de informes y slides a través de lenguaje natural.
+
 ![](img/2011_bigthings_interaction1.png)
 ![](img/2011_bigthings_interaction2.png)
 ![](img/2011_bigthings_interaction3.png)
